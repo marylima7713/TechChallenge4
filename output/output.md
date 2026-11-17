@@ -1,0 +1,1 @@
+# Esta pasta serve para arquivos de saida do script
